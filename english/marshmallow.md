@@ -298,3 +298,5 @@ Do you:
 [Twas the Night Before Christmas](night-night/tale.md)
 
 [heck Reddit for any useful information.](reddit/ask-reddit.md)
+
+[Enter the world of the Simpsons](simpsons/enter-simpsons-world.md)
